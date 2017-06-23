@@ -12,7 +12,7 @@ $ npm install --save git-url-prettify
 ```js
 const gitUrlPrettify = require('git-url-prettify')
 
-const { owner, repository } = gitUrlPrettify('bukinoshita/git-url-prettify')
+gitUrlPrettify('bukinoshita/git-url-prettify')
 // => https://github.com/bukinoshita/git-url-prettify.git
 ```
 
