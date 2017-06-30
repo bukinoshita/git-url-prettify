@@ -20,7 +20,9 @@
     "pretty",
     "prettier",
     "ssh",
-    "https"
+    "https",
+    "repository",
+    "repo"
   ],
   "xo": {
     "space": true,
