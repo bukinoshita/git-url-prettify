@@ -18,7 +18,7 @@ gitUrlPrettify('bukinoshita/git-url-prettify')
 
 ## API
 
-### gitUrlPrettify(repo, { type })
+### gitUrlPrettify(repo, [options])
 
 returns a `string`.
 
@@ -27,7 +27,12 @@ returns a `string`.
 Type: `string`<br/>
 Required
 
-#### type
+#### options
+
+Type: `object`
+
+
+##### type
 
 Type: `string`<br/>
 Default: `https`<br/>

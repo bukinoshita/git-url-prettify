@@ -12,6 +12,16 @@
     "ava": "^0.19.1",
     "xo": "^0.18.2"
   },
+  "keywords": [
+    "git",
+    "github",
+    "url",
+    "prettify",
+    "pretty",
+    "prettier",
+    "ssh",
+    "https"
+  ],
   "xo": {
     "space": true,
     "semicolon": false,
